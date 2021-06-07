@@ -7,3 +7,4 @@ For this project we went through the entire data science lifecycle and completed
 Attached are relevant links: 
 
   Link to the analysis : https://rpubs.com/Naftal/752556
+  Link to the report   : https://github.com/nkerecha/USA-Universities-Tuition/blob/main/st494_report._final_update.pdf
